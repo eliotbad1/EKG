@@ -22,7 +22,7 @@ on:
         - 10minutemail
         - guerrillamail
         - developermail
-        default: developermail
+        default: guerrillamail
 jobs:
   GenerateKey:
     runs-on: ubuntu-latest
